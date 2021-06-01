@@ -399,11 +399,11 @@ button {
 }
 
 .text-img figure {
-     margin: 140px;
+     margin: 0px;
 }
 
 .text-img figure img {
-     width: 65%;
+     width: 100%;
 
 }
 
