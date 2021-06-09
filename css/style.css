@@ -282,7 +282,7 @@ button {
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-     color: #000;
+     color: #00ff96;
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
@@ -484,13 +484,10 @@ font-size: 21px;
 }
 
 .about .about_box .read_more {
-     background: #000;
-     color: #fff;
+     background: #00ff96;
+     color: #000;
      border-radius: 15px;
-}
-
-.about .about_box .read_more:hover {
-     background: #6216ff;
+     margin-top: 30px;
 }
 
 
