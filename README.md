@@ -8,7 +8,7 @@
 
 # Real estate web scraper
 
-Website under domain [setscods-analytics](www.setscods-analytics.com), Deployment with AWS Amplify
+Website under domain [setscods-analytics](www.setscods-analytics.com), Deployment with AWS Amplify.
 
 ## Description
 
