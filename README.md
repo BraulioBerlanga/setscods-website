@@ -4,7 +4,7 @@ Website under domain [setscods-analytics](www.setscods-analytics.com), Deploymen
 
 ## Description
 
-Static site, using nicepage.com template. Site under domain setscods-analytics. 
+Static site, using nicepage.com template. Site under domain setscods-analytics
 
 ### Dependencies
 
